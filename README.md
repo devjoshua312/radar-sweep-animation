@@ -4,8 +4,8 @@ modules required: arcade and math.
 
 
 first do this to check if you are using the latest version of pip 
-python -m pip install –upgrade pip
+__> 'python -m pip install –upgrade pip'
 
 then
-pip install arcade
-pip install math
+__> 'pip install arcade'
+__> 'pip install math'
